@@ -6,20 +6,21 @@ Hello! I'm **[Your Name]** 🚀, a passionate developer always exploring new tec
 
 ## 📊 GitHub Stats
 
-### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jumb0t&theme=dark&hide_border=true)](https://git.io/streak-stats)
+### 📝 Profile Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jumb0t&theme=solarized_dark)
 
-### 💻 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumb0t&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### 💻 Language Statistics
+- **Most Used Languages in Commits:**
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jumb0t&theme=solarized_dark)
 
-### ⚡ GitHub Activity Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jumb0t&show_icons=true&theme=radical&hide_border=true)
+- **Languages Across Repositories:**
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jumb0t&theme=solarized_dark)
 
-### 📈 Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jumb0t&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📈 Profile Statistics
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jumb0t&theme=solarized_dark)
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=jumb0t&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+### ⏰ Productive Time in 24 Hours
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jumb0t&theme=solarized_dark)
 
 ---
 
@@ -47,17 +48,7 @@ Hello! I'm **[Your Name]** 🚀, a passionate developer always exploring new tec
 
 ---
 
-## 🖼️ Fun Extras
-
-### ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🎵 Now Playing
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-username&cover_image=true&theme=novatorem)](https://spotify.com)
-
----
-
-### 🚧 Ongoing Projects
+## 🚧 Ongoing Projects
 - 🛠️ **[Project Name](https://github.com/jumb0t/project-name)**: Short description here.
 - 🔧 **[Another Project](https://github.com/jumb0t/another-project)**: Short description here.
 - 🌐 Check out all my repositories [here](https://github.com/jumb0t?tab=repositories).
@@ -65,9 +56,4 @@ Hello! I'm **[Your Name]** 🚀, a passionate developer always exploring new tec
 ---
 
 ## 🎨 Customization Resources
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-- [GitHub Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-- [GitHub Profile Trophies](https://github.com/ryo-ma/github-profile-trophy)
-- [Spotify GitHub Profile](https://github.com/kittinan/spotify-github-profile)
-
+- [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
