@@ -1,6 +1,7 @@
 # jumb0t
 
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-333?style=flat&logo=windows) ![Android](https://img.shields.io/badge/-Android-333?style=flat&logo=android)
+
 ---
 
 
